@@ -26,7 +26,7 @@ What is Cucumber? What is Gherkin?<br/>
 
 #### General
 
-Install Editor Intellij Idea Community, SDK, Tools, dan JDK di komputer.
+Install Editor Intellij Idea Community, SDK, Tools, and JDK in komputer.
 
 #### Appium
 
@@ -87,7 +87,7 @@ Install Editor Intellij Idea Community, SDK, Tools, dan JDK di komputer.
 
 #### Clone
 
-Clone this repository using this command `git clone https://github.com/cahkla10/Appium-Java-using-POM`
+Clone this repository using this command `git clone https://github.com/cahkla10/Appium-Java-using-POM` in terminal or command prompt.
 
 #### Intellij IDEA Configuration
 
