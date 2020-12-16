@@ -1,4 +1,4 @@
-# Appium-Java-using-POM-and-PageFactory
+# Appium-Java-using-POM-with-PageFactory
 
 ## 1. POM
 
